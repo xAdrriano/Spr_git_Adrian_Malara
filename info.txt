@@ -1,0 +1,9 @@
+pwd
+cd documents
+mkdir Spr_git_Adrian_Malara
+cd Spr_git_Adrian_Malara
+git init
+touch info.txt
+git status
+git add info.txt
+git commit -m "Rozpoczęcie projektu"
