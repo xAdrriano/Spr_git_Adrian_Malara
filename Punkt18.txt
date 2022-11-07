@@ -1,0 +1,15 @@
+*   77d62d8 (HEAD -> master) Merge branch 'wersjaB'
+|\
+| * c53b3e2 (WersjaB) dodaj plik wersjaB
+* | 23a2105 dodanie pliku compare.txt
+* | 3dbec2c dodaj plik wersjaB
+|/
+* 82bb563 Punkt10
+* fc5cfe4 Punkt9
+*   8134693 Merge branch 'wersjaA'
+|\
+| * 1e358c3 (wersjaA) dodaj plik wersjaA
+* | 484b3ad Punkt7
+|/
+* 3f46d89 Wykonaj pierwsze czynności
+* ba96327 Rozpoczęcie projektu
